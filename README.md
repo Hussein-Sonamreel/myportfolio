@@ -24,8 +24,7 @@ This website showcases my work, skills, and journey from **5-star hospitality to
 
 ---
 
-## 📸 Preview
-![Portfolio Preview](./public/preview.png)  
+## 📸 Preview 
 *(<img width="1178" height="536" alt="Screenshot from 2025-09-04 21-40-50" src="https://github.com/user-attachments/assets/dcfe3d97-730f-4b73-8623-84ee60d44675" />)*
 
 ---
